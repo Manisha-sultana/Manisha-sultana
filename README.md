@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=header&text=SUHEL%20KHAN&fontSize=28&fontColor=ffffff" alt="Suhel Khan Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=header&text=MANISHA%20SULTANA&fontSize=28&fontColor=ffffff" alt="Suhel Khan Banner"/>
 
 <h3 align="center">
  Hi, I'm <b>Suhel Khan</b><br/>
