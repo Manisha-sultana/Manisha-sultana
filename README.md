@@ -16,7 +16,7 @@ Software Development Engineer (SDE)
 <br/>
 
 <!-- 🔤 Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=EC4899&vCenter=true&width=900&lines=Software+Development+Engineer;Frontend-Focused+SDE;Problem+Solving+%26+DSA;React+%7C+JavaScript+%7C+Web+Development;Building+Scalable+and+User-Centric+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=EC4899&vCenter=true&width=900&lines=Software+Development+Engineer;Frontend-Focused+SDE;Problem+Solving+%26+DSA;Java+%7C+React+%7C+Web+Development;Building+Scalable+and+User-Centric+Applications" />
 
 <br/>
 
@@ -44,9 +44,9 @@ Software Development Engineer (SDE)
 
 I’m **Manisha Sultana**, a **Software Development Engineer (SDE)** from India 🇮🇳  
 with a strong foundation in **Frontend Development** and a growing focus on  
-**Data Structures, Algorithms, and Software Engineering fundamentals**.
+**Java-based problem solving, Data Structures, and core Software Engineering fundamentals**.
 
-I enjoy building **clean, scalable, and user-friendly applications** while continuously improving my problem-solving skills.
+I enjoy building **clean, scalable, and user-friendly applications** while continuously improving my coding and problem-solving skills.
 
 💡 *“Good software is built with logic, clarity, and consistency.”*
 
@@ -55,9 +55,9 @@ I enjoy building **clean, scalable, and user-friendly applications** while conti
 ## 🧠 Core SDE Competencies
 
 - Data Structures & Algorithms (Arrays, Strings, Hashing, Recursion – basics)
-- Problem Solving & Logical Thinking
-- Object-Oriented Programming (OOP)
-- Frontend Engineering with React & JavaScript
+- Problem Solving & Logical Thinking using **Java**
+- Object-Oriented Programming (OOP) in Java
+- Frontend Engineering with React
 - Code readability, reusability & optimization
 - Basic understanding of software design principles
 
@@ -67,7 +67,7 @@ I enjoy building **clean, scalable, and user-friendly applications** while conti
 
 ### Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,python" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,python" height="45"/>
 </p>
 
 ### Frontend & Web Technologies
@@ -84,10 +84,10 @@ I enjoy building **clean, scalable, and user-friendly applications** while conti
 
 ## 📊 DSA & Coding Practice
 
-- Regular practice of **DSA & interview-style problems**
+- Regular practice of **DSA & interview-style problems in Java**
 - Focus on **time & space complexity**
-- Active learning through coding platforms like LeetCode
-- Applying problem-solving concepts in real projects
+- Active learning through LeetCode and coding platforms
+- Applying algorithmic thinking to real-world projects
 
 ---
 
@@ -116,7 +116,7 @@ I enjoy building **clean, scalable, and user-friendly applications** while conti
 
 ## 📈 Currently Learning
 
-- Advanced JavaScript & React patterns
+- Advanced **Java** (Collections, Streams, OOP best practices)
 - Data Structures & Algorithms
 - Software engineering best practices
 - Clean code & performance optimization
