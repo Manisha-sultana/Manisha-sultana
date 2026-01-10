@@ -2,7 +2,6 @@
 <h3 align="center">🚀 Software Engineer | Full Stack Developer </h3>
 
 <p align=" Passionate about building scalable web applications and solving real-world problems.">
-   />
 </p>
 
 ---
