@@ -16,49 +16,49 @@
 
 ## 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
 ---
 
 ## 🎨 Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
 ---
 
 ## ⚙️ Backend / Server Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django," />
 </p>
 
 ---
 
 ## 📚 Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,spring,django" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django" />
 </p>
 
 ---
 
 ## 📦 Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,jquery,axios" />
+  <img src="https://skillicons.dev/icons?i=redux,jquery" />
 </p>
 
 ---
 
 ## 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 ## 🏆 Top Languages
 <p align="center">
-  <img src="https://github.com/Manisha-sultana/Manisha-sultana/blob/main/README.md" />
+  <img src="https://github.com/Manisha-sultana" />
 </p>
 
 ---
