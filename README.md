@@ -67,7 +67,7 @@
 ## 🏆 Top Languages
 <p align="center">
   <img src="![Top Langs](![Top Langs](## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishasultana&layout=compact&theme=tokyonight))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-sultana&layout=compact&theme=tokyonight))
 " />
 </p>
 
