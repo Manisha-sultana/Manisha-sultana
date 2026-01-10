@@ -28,31 +28,12 @@
 
 **Tools & Platforms:**  
 - Git, GitHub, Docker, AWS, Linux  
-
----
-
-## 📌 Projects
-### 🔹 E-Commerce Web App
-- MERN Stack application with authentication & payment integration  
-- 🔗 Repo: https://github.com/username/project-name  
-
-### 🔹 Task Management System
-- REST API with JWT authentication  
-- 🔗 Repo: https://github.com/username/project-name  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/username  
-- 📧 Email: yourmail@gmail.com  
-- 🌐 Portfolio: https://yourwebsite.com
+- 💼 LinkedIn: https://www.linkedin.com/feed/ 
+- 📧 Email: manishasultana668@gmail.com  
+ 
 
 ---
 ⭐ **If you like my work, consider giving a star!**
