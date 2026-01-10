@@ -63,16 +63,9 @@
 
 ---
 
-## 🧪 Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,selenium,cypress" />
-</p>
-
----
-
 ## 🏆 Top Languages
 <p align="center">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Manisha-sultana)
 " />
 </p>
 
